@@ -1,4 +1,4 @@
-package by.teachmeskills.robot.legs;
+package by.teachmeskills.robot.spares.legs;
 
 public class SonyLeg implements ILeg {
 

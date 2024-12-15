@@ -1,4 +1,4 @@
-package by.teachmeskills.robot.hands;
+package by.teachmeskills.robot.spares.hands;
 
 public class SonyHand implements IHand {
 

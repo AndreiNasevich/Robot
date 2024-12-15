@@ -1,8 +1,8 @@
 package by.teachmeskills.robot;
 
-import by.teachmeskills.robot.hands.IHand;
-import by.teachmeskills.robot.heads.IHead;
-import by.teachmeskills.robot.legs.ILeg;
+import by.teachmeskills.robot.spares.hands.IHand;
+import by.teachmeskills.robot.spares.heads.IHead;
+import by.teachmeskills.robot.spares.legs.ILeg;
 
 public class Robot implements IRobot {
     private IHead head;
